@@ -34,3 +34,6 @@ build/
 
 ### Frontend (Separate Repository) ###
 frontend/
+node_modules/
+package.json
+package-lock.json
