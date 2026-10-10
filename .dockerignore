@@ -1,0 +1,9 @@
+.git
+.gitignore
+target/
+frontend/
+.vscode/
+.mvn/wrapper/maven-wrapper.jar
+HELP.md
+Dockerfile
+.dockerignore
